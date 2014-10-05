@@ -1,0 +1,3 @@
+[submodule "tests/shoulda.js"]
+	path = tests/shoulda.js
+	url = git://github.com/philc/shoulda.js.git
